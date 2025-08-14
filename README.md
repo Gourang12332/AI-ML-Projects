@@ -1,8 +1,40 @@
-# AI-ML-Projects
-This is my repo of ai ml projects. Till now it consists of two projects, but soon more projects will be uploaded as well . 
-About these Projects
-These two projects are:
-1. An open Ai assistant jarvis program : This program is completely created by me with scratch and it is going with modifications from my first year. This program is for laptop automation, that is your voice commands will be interpreted by it and then as per the command actions will be carried out. That means if you ask it to set alarm , to open hotspot, to open google , to search wikipidea, to play music, to make a call , to send message , whatsapp message and many more.  Just chk it out , really it is not optimized but i have made it from scratch and will be optimized further also.
-2. A face recognition program --> which will mark the attendance of the student once a student will be detected through face recognization module, and will check the best possible similarity in the database.
+AI-ML-Projects 🚀
 
-                                 !! WAIT FOR MORE!!
+This repository contains my collection of AI and Machine Learning projects. Currently, it includes two projects, but many more are on the way!
+
+📌 About the Projects
+1. Jarvis – OpenAI Assistant for Laptop Automation
+
+A personal AI assistant built entirely from scratch and continuously improved since my first year.
+Jarvis listens to your voice commands and performs a variety of tasks automatically, such as:
+
+Setting alarms ⏰
+
+Enabling hotspot 📶
+
+Opening Google or searching Wikipedia 🌐
+
+Playing music 🎵
+
+Making calls or sending messages 📱
+
+Sending WhatsApp messages 💬
+
+And many more automation features!
+
+⚠ Note: The program is not yet fully optimized, but it’s evolving with every update.
+
+2. Face Recognition Attendance System
+
+A smart attendance system that uses face recognition to detect students and mark their attendance automatically.
+
+Matches the detected face with the best possible similarity from the database
+
+Eliminates the need for manual attendance marking
+
+Can be expanded to integrate with real-time databases and dashboards
+
+💡 Stay tuned! More AI/ML projects are coming soon.
+
+Author: Gourang Jain
+Tech Stack: Python, OpenCV, face_recognition, SpeechRecognition, pyttsx3, and more.
